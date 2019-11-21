@@ -1,6 +1,6 @@
-# # degrees = float(input("Degrees: "))
-# # radians = degrees *3.14 /180
-# # print("Radians: ", radians)
+degrees = float(input("Degrees: "))
+radians = degrees *3.14 /180
+print("Radians: ", radians)
 #
 # student1 = 80.0
 # student2 = 90.0
@@ -46,16 +46,16 @@
 # def makeItsquare(number): return (number*number)
 # print(makeItsquare(10
 #                    ))
-def my_function(name):
-    print(
-        "hello world"
-    )
-    print(
-        name,"ur so gay"
-    )
-
-my_function(10)
-# do you other function
+# def my_function(name):
+#     print(
+#         "hello world"
+#     )
+#     print(
+#         name,"ur so gay"
+#     )
+#
+# my_function(10)
+# # do you other function
 
 
 
